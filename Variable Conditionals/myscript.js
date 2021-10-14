@@ -1,22 +1,26 @@
-function check(){
+function check()
+{
+    /**Take input value from html element with id "word" 
+     and store it in a variable named input**/
+    var input = document.getElementById("").value;
+    
+    /**Print "input" variable to console**/
+    console.log();
 
-    // 1. Take input from input box and store it in a variable named input
+    /**Calculate length of input 
+    and store it in a variable named count**/
+    var count=   .length;
 
-
-
-    // 2. Calculate length of the input and store it in a variable name count.
-
-
-
-
-    //3. Check :
-        //if count is greater than 5 then 
-                //print a message "Entered string has more than 5 characters" 
-        //else 
-                //print "Entered string has less than 5 characters"
-
-
-                
-
+    /**Print "count" variable to console**/
+    console.log();
+    
+    /**Check if count is greater than 5 or lesser 
+    and print a message to the console accordingly***/
+    if(){
+        console.log();
+    }
+    else{
+        console.log();
+    }
 }
 
